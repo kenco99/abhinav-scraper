@@ -1,6 +1,6 @@
 Prerequisites: node and npm
 
-Step1: install these 4 packages via npm
+Step1: install these 3 packages via npm-
   axios
   cheerio
   json2csv
